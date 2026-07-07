@@ -1,0 +1,6 @@
+window.NEXUS_CONFIG = {
+  WORKER_URL: "",
+  DISCORD_CLIENT_ID: "",
+  DISCORD_REDIRECT_URI: "",
+  BOT_NAME: "NexusAI"
+};
